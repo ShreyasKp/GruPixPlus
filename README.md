@@ -1,7 +1,5 @@
-README Report
-Milestone 1
 Team #1544: GruPix+
-Shreyas and Ruhani
+Members: Shreyas and Ruhani
 
 Targeted Level of Achievement: Apollo 11 (Advanced)
 
@@ -28,8 +26,11 @@ This application is available to all users with no age limit. Anyone keen on hav
 Resources: 
 
 Android Studio: We plan to use this working environment to create an application that can run on the Android O.S. We have gathered from our research that this platform might be the easiest and most efficient way to construct an Android application, especially for beginners.
+
 Java 10: For the purpose of this project, we programme using the Java language (tentatively, version 10). Android Studio along with Java forms an ideal starter pack to actualize a workable Android application.
+
 Android APIs: To understand how and to what level we can interact with and access the gallery on an Android device, we will make use of the Android API documentations made available.
+
 Facial Recognition APIs: To get this main feature of the app functioning, we plan to use some pre-existing APIs. We will explore and choose what fits the needs, test to ensure they give correct output and then begin integrating it into our application.
 
 Project Description:   
@@ -37,12 +38,14 @@ Project Description:
 Some of the salient features we wish to include in this application include:
 
 A homepage: This is what the application will open to. This will ideally contain the name of the application ‘GruPix+’, a logo and maybe a tagline/short description of the application.
+
 Main Workpage: Before the gallery is synced for the first time, this page will display a message like ‘Press the Sync button below to begin!’. After the gallery from the user’s phone is synced, this page’s body will tentatively display all the unique faces in each folder, grouping all the pictures of that person. The user will be given an option to name the folder for each person if they desire too, for further convenience. 
+
 Sync Button: The sync button allows the user to sync his gallery so as to group the new pictures which might have been added since the previous sync, into their respective folders
+
 Individual Folder: Each person will have a dedicated folder for storing their pictures and will be uniquely identified by their name or the default name assigned by the application, should the user decide not to name some folders. 
+
 Search Bar: The search bar will allow to search between all the folders by the folder name, which is either the default name assigned by the application or a name the user assigns to it for convenience. This feature will be useful at times when the number of folders, ie. faces in the gallery exceed beyond a point and the user wants to search his/her named folders by their titles instead of scrolling through the entire list.
-
-
 
 How we are different:
 
@@ -63,13 +66,14 @@ As a user, I want to be able to obtain those pictures with more than one person 
 Tentative Schedule:
 
 Sprint 1. 4th June to 17th June - Make a working application, decide on the homepage design and get the gallery to be imported on the working page.
+
 Sprint 2. 18th June to 1st July - Study Facial Recognition (FR) APIs and other options available, testing the APIs and integrating into the application.
+
 Sprint 3. 2nd July to 15th July - Finish integration and get face recognition working; begin working on using FR on the user gallery pictures and give a unique identifier to the unique photos (person’s name).
+
 Sprint 4. 16th July to 29th July - The user should be able to feed a name and get all pictures containing the same person, and implement a ‘Sync’ button to also group the new pictures added into the gallery since the last syncing and grouping.
+
 Final Sprint. 30th July to 5th September - Spillovers margin, testing the application, and further enhancements and extensions depending on time.
-
-
-
 
 Future Extensions:
 
