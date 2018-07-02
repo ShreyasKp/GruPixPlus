@@ -1,5 +1,7 @@
 Milestone 2
+
 Team #1544: GruPix+
+
 Shreyas and Ruhani
 
 Targeted Level of Achievement: Apollo 11 (Advanced)
